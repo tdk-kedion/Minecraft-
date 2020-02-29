@@ -25,7 +25,7 @@ git clone https://github.com/tdk-kedion/Minecraft-
 此存储库中的大多数脚本都要求Minecraft在GNU屏幕内运行。可以使用以下`start.sh`脚本来完成此操作：
 
 ```
-./start.sh
+chmod -R o+x start.sh && ./start.sh
 ```
 
 ## 停止服务器
@@ -33,7 +33,7 @@ git clone https://github.com/tdk-kedion/Minecraft-
 您可以使用提供的脚本关闭服务器（并通知他人）。
 
 ```
-./stop.sh
+chmod -R o+x stop.sh && ./stop.sh
 ```
 
 ## 访问控制台
