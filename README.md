@@ -25,7 +25,7 @@ git clone https://github.com/cranstonide/linux-minecraft-scripts
 此存储库中的大多数脚本都要求Minecraft在GNU屏幕内运行。可以使用以下`start.sh`脚本来完成此操作：
 
 ```
-./mc-start.sh
+./start.sh
 ```
 
 ## 停止服务器
