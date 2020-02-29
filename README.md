@@ -15,7 +15,7 @@
 为了使用这些脚本，您只需要克隆存储库即可。请确保您有`git`，`screen`和`java`安装。
 
 ```
-git clone https://github.com/cranstonide/linux-minecraft-scripts
+git clone https://github.com/tdk-kedion/Minecraft-
 ```
 
 不要忘记编辑`config.cfg`来满足您的设置。如果您不首先自定义配置文件，则这些脚本将无法正常工作。
